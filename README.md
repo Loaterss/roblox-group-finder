@@ -16,4 +16,5 @@ Run main.py
 
 ## Other
 If you find any bugs, please report them [here](https://github.com/retnea/roblox-group-finder/issues)
+
 This project uses the **GNU GPL v3**. Read more about that [here](https://choosealicense.com/licenses/gpl-3.0/)
