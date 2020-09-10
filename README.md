@@ -2,7 +2,8 @@
 Find vacant and claimable Roblox groups
 
 Download the latest version of Python [here](https://www.python.org/downloads/)
-Get the source code [here](https://github.com/retnea/roblox-group-finder/archive/master.zip)
+
+Get the source code to this project [here](https://github.com/retnea/roblox-group-finder/archive/master.zip)
 
 ## Instructions
 Open the Command Prompt
