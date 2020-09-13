@@ -8,6 +8,8 @@ MaxId = 1000000 # The max ID, group ID's will not be searched past this number
 def search():
     Group = random.randint(StartId, MaxId)
     
+    time.sleep(1)
+    
     GetRequest = requests.get("https://groups.roblox.com/v1/groups/" + str(Group))
     JsonResponse = GetRequest.json()
     
