@@ -5,7 +5,7 @@ Download the latest version of Python [here](https://www.python.org/downloads/)
 
 Get the source code to this project [here](https://github.com/retnea/roblox-group-finder/archive/master.zip)
 
-## Instructions
+## Instructions (Windows)
 Open the Command Prompt
 - Do Win+R and type **cmd** in the text box and press enter
 
