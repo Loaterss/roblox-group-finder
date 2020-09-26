@@ -17,8 +17,8 @@ def search():
         if JsonResponse["owner"] == None and JsonResponse["publicEntryAllowed"] == True:
             print("Group found! ID: " + str(Group))
     elif GetRequest.status_code == 429:
-        print("Too many requests, waiting five seconds...")
-        time.sleep(5)
+        print("Too many requests, waiting two minutes...")
+        time.sleep(120)
     
 while True:
     search()
