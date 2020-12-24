@@ -1,3 +1,6 @@
+### Please, don't use this. This was made when I was new to Python. It's not well made and sends numerous requests from you to Roblox.
+### Again, please do not use this. Thanks.
+
 # Roblox Group Finder
 Find vacant and claimable Roblox groups
 
